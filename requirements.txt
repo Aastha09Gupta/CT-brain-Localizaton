@@ -1,0 +1,26 @@
+# Modal & API
+modal
+fastapi
+uvicorn
+python-multipart
+
+# Medical Image Processing
+nibabel
+pydicom
+SimpleITK
+scikit-image
+
+# Deep Learning & Models
+torch
+torchvision
+HD-BET
+
+# Numerical & Visualization
+numpy
+opencv-python
+matplotlib
+Pillow
+
+# Utilities
+python-dateutil
+tqdm
